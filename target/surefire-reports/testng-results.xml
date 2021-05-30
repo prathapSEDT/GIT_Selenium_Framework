@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="11340" started-at="2021-05-22T08:38:01 IST" finished-at="2021-05-22T08:38:12 IST">
+    <groups>
+    </groups>
+    <test name="systemtesting" duration-ms="11340" started-at="2021-05-22T08:38:01 IST" finished-at="2021-05-22T08:38:12 IST">
+      <class name="com.testcases.TC_01">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.testcases.TC_01@1255b1d1]" name="beforeSuite" is-config="true" duration-ms="1109" started-at="2021-05-22T08:37:59 IST" finished-at="2021-05-22T08:38:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testcases.TC_01@1255b1d1]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2021-05-22T08:38:01 IST" finished-at="2021-05-22T08:38:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testcases.TC_01.Tc_01_RegisterUser() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Tc_01_RegisterUser()[pri:0, instance:com.testcases.TC_01@1255b1d1]" name="Tc_01_RegisterUser" duration-ms="11174" started-at="2021-05-22T08:38:01 IST" finished-at="2021-05-22T08:38:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_01_RegisterUser -->
+      </class> <!-- com.testcases.TC_01 -->
+    </test> <!-- systemtesting -->
+  </suite> <!-- Suite1 -->
+</testng-results>
